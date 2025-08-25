@@ -6,6 +6,10 @@ Além de me ajudar nos estudos, este repositório pode servir de **referência/i
 
 ---
 
+🔗 [Acesse o preview aqui](https://seu-usuario.github.io/nome-do-projeto/)
+
+---
+
 ##  Funcionalidades
 - Navegação dinâmica entre páginas (`home`, `sobre mim`, `contato`)
 - Carregamento de conteúdo com **JavaScript + Axios**
