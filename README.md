@@ -5,8 +5,8 @@ A ideia é simular uma pequena aplicação do tipo **SPA (Single Page Applicatio
 Além de me ajudar nos estudos, este repositório pode servir de **referência/inspiração para outras pessoas** que também estão aprendendo desenvolvimento web.
 
 ---
-
-🔗 [Acesse o preview aqui](https://seu-usuario.github.io/nome-do-projeto/)
+# Preview
+🔗 [Acesse o preview aqui](https://pkzim77.github.io/simple-spa-site/)
 
 ---
 
